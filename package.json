@@ -26,11 +26,13 @@
     "copy-webpack-plugin": "^4.0.0",
     "html-webpack-plugin": "^2.24.1",
     "pixi.js": "^4.1.1",
+    "purescript": "^0.10.2",
+    "purs-loader": "^2.1.1",
     "rxjs": "^5.0.0-rc.2",
     "stats.js": "^0.17.0",
     "ts-loader": "^1.0.0",
     "typescript": "^2.0.7",
-    "webpack": "2.1.0-beta.25",
+    "webpack": "2.1.0-beta.27",
     "webpack-dev-server": "2.1.0-beta.10"
   }
 }

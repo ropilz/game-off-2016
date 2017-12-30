@@ -66,6 +66,7 @@ export class Ranged extends Robot {
 
   update(time: ITimeEvent) {
     if (this._team !== 'hacker' && this._playerInRange()) {
+      debugger;
       this._target = this._game.currentMap.player;
     } else {
       this._target = null;

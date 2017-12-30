@@ -22,10 +22,10 @@ export const config = {
       hackSpeed: 10
     },
     ranged: {
-      radius: 32 * 4,
+      radius: 32 * 5,
       size: 32,
-      shootDelay: 100,
-      shootCooldown: 200,
+      shootDelay: 1000,
+      shootCooldown: 20,
       hackMeter: 50
     },
     melee: {
